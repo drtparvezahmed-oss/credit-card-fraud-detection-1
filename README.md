@@ -7,11 +7,8 @@ https://github.com/shariqua06/credit-card-fraud-detection
 ## Internship Details
 
 - Internship Provider: CodTech IT Solutions
-- 
 - Intern ID: CITS3942
-- 
 - Internship Week: Week 4
-- 
 - Intern Name: Shariqua Tabassum G  
 
 ---
