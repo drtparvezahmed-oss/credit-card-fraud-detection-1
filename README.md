@@ -95,11 +95,11 @@ _This will generate models/fraud_model.pkl locally.
    
 6.Access the dashboard in your browser (usually at http://localhost:8501)
 
-**Login Credentials:**
+##Login Credentials:
 Username: admin
 Password: admin123
 
-**Dataset Information**
+##Dataset Information:
 -Dataset: Credit Card Fraud Detection Dataset
 -Contains anonymized real-world transactions
 -Features:
@@ -108,14 +108,14 @@ Password: admin123
    ~Amount
    ~Class (0 = Safe, 1 = Fraud)
    
-**UI/UX Design:**
+##UI/UX Design
 -Dark FinTech Control Room Theme
 -Glassmorphism cards with glow effect
 -Animated dashboard feel
 -Stripe-inspired analytics layout
 -Fully responsive Streamlit UI
 
-**Dashboard Modules:**
+##Dashboard Modules
 -Overview
    Total transactions scanned
    Fraud alerts
@@ -132,27 +132,27 @@ Password: admin123
    Risk trend analysis
    Interactive charts
 
-**Key Highlights:**
+##Key Highlights
 ✔ Real-world dataset simulation
 ✔ Fully automated ML fraud detection
 ✔ FinTech-grade UI design
 ✔ No manual feature input required
 ✔ Resume-ready AI project
 
-**Future Enhancements:**
+##Future Enhancements
    Real-time transaction API integration
    Email/SMS fraud alert system
    SHAP explainability for predictions
    Cloud deployment (Streamlit Cloud / AWS)
    Admin analytics panel upgrade
 
-**Developed By:**
+##Developed By
    Shariqua Tabassum G
    Intern - CodTech IT Solutions
    Intern ID: CITS3942
    Week 4 Internship Project
 
-**Repository :**
+##Repository
 
    https://github.com/shariqua06/credit-card-fraud-detection⁠
 
