@@ -1,8 +1,7 @@
 # 🏦 Credit Card Fraud Detection - FinBank AI Control Room
 
 🔗 GitHub Repository:  
-https://github.com/drtparvezahmed-oss/Credit-Card-Fraud-Detection
-
+https://github.com/drtparvezahmed-oss/credit-card-fraud-detection-1
 ---
 ## Internship Details
 
@@ -170,4 +169,4 @@ Password: admin123
    
 ## Repository
 
-https://github.com/drtparvezahmed-oss/Credit-Card-Fraud-Detection
+https://github.com/drtparvezahmed-oss/credit-card-fraud-detection-1
